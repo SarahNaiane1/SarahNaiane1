@@ -1,7 +1,12 @@
 
 ### Olá, eu sou a Sarah Naiane<div align="center">
 
-- 🔭 No momento eu trabalho com foco em Quality Assurance Junior e Develop Fullstack Junior  
+
+  <div id="header" align="center">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+</div>
+  
+  - 🔭 No momento eu trabalho com foco em Quality Assurance Junior e Develop Fullstack Junior  
 - 🌱 Estudando Automação de Testes e frameworks de back-end e front-end
 - 😄 Pronome:Ela/Dela
 
@@ -17,7 +22,6 @@
   
   <img align="center" alt="Sarah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Sarah-Cypress" height="30" width="40" src="https://www.google.com/search?q=cypress+icone&sxsrf=ALiCzsYEGPZ7YdxWPwUG2yizbnkg_8VIvA:1653519028467&tbm=isch&source=iu&ictx=1&vet=1&fir=K69gY5On_EMlKM%252CA30CX7wtBOy44M%252C_%253BQ7tKTi8Ek5K0YM%252CtB3vIPCCZMbOeM%252C_%253BVEW-wJmJL_Bd_M%252C522DGRt6g5j9lM%252C_%253BLOnLafCyM3MlQM%252Cl6n7V9D4JSiYLM%252C_%253BKeJv-nQleiNJHM%252CJA4ViueEGEbPRM%252C_%253BpWp553QkgEwp5M%252CFtTIN1wWaRrq7M%252C_%253B646KHvNK4T5y5M%252Caclj9hBDUC9LUM%252C_%253B2fqipwZLjg_yGM%252CZ_efjkWX_KpARM%252C_%253BRYZfpt7qqsdvDM%252C7SaRxHzyO186TM%252C_%253Bi28Y2h28AQmOAM%252CtB3vIPCCZMbOeM%252C_%253Bq511jCLKN4nKUM%252CgJ3yn02VtROLhM%252C_%253BK4BtsnYqoYSQnM%252CtB3vIPCCZMbOeM%252C_%253BLWbHY575_46KcM%252CfRowXhT1Tt0WbM%252C_%253BxBIQsJfIs9TxvM%252CY1cPYG_uqLyqZM%252C_&usg=AI4_-kTkZ2eWqMVPetpILcvH0gtL3BIKHw&sa=X&ved=2ahUKEwjBtsiy3vv3AhW4u5UCHdQzCCEQ9QF6BAgDEAE#imgrc=VEW-wJmJL_Bd_M">
 </div>
   
   ##
