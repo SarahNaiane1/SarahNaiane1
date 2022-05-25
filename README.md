@@ -6,7 +6,7 @@
       <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </div>
   
-  - 🔭 No momento eu trabalho com foco em Quality Assurance Junior e Develop Fullstack Junior  
+  - 🔭 No momento eu trabalho como Develop Fullstack Junior  e foco em Quality Assurance Junior na @mimo
 - 🌱 Estudando Automação de Testes e frameworks de back-end e front-end
 - 😄 Pronome:Ela/Dela
 
