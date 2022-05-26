@@ -1,12 +1,13 @@
 
-### Olá, eu sou a Sarah Naiane<div align="center">
-
+<h3 align="center">Olá, seja bem vindo(a) ao meu perfil 🖖</h3>
+Eu me chamo Sarah e sou acadêmico em Análise e Desenvolvimento de Sistemas, atualmente trabalho  na <a href="https://mimo.com.br/" targer="_blank">MIMO LIVES SALES</a>.
+****
 
   <div id="header" align="center">
       <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </div>
   
-  - 🔭 No momento eu trabalho como Develop Fullstack Junior  e foco em Quality Assurance Junior na @mimo
+ - 🔭 No momento eu trabalho como Develop Fullstack Junior  e foco em Quality Assurance Junior 
 - 🌱 Estudando Automação de Testes e frameworks de back-end e front-end
 - 😄 Pronome:Ela/Dela
 
@@ -20,9 +21,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Sarah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <img align="center" alt="Sarah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <img align="center" alt="Sarah-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="Sarah-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+ .
+<h3>O que costumo utilizar nos meus testes:</h3>
+<p align="left"> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </p>
   
   ##
  
