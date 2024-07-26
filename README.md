@@ -7,8 +7,8 @@ Eu me chamo Sarah e sou acadêmico em Análise e Desenvolvimento de Sistemas, at
       <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </div>
   
- - 🔭 No momento eu trabalho como Develop Fullstack Junior  e foco em Quality Assurance Junior 
-- 🌱 Estudando Automação de Testes e frameworks de back-end e front-end
+ - 🔭 No momento eu trabalho como Quality Assurance Junior 
+- 🌱 Estudando Automação de Testes
 - 😄 Pronome:Ela/Dela
 
 
