@@ -1,13 +1,17 @@
 
-<h3 align="center">Olá, seja bem vindo(a) ao meu perfil 🖖</h3>
-Eu me chamo Sarah e sou acadêmico em Análise e Desenvolvimento de Sistemas, atualmente trabalho  na <a href="https://mimo.com.br/" targer="_blank">MIMO LIVES SALES</a>.
-****
-
   <div id="header" align="center">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+
+<h3>E ai QA, Bugou?</h3>
+ <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+
+<h3 align="center">Olá, seja bem vindo(a) ao meu perfil 🖖</h3>
+Eu me chamo Sarah e sou acadêmico em Análise e Desenvolvimento de Sistemas.
+
+
+
 </div>
   
- - 🔭 No momento eu trabalho como Quality Assurance Junior 
+ - 🔭 Quality Assurance  
 - 🌱 Estudando Automação de Testes
 - 😄 Pronome:Ela/Dela
 
@@ -18,19 +22,54 @@ Eu me chamo Sarah e sou acadêmico em Análise e Desenvolvimento de Sistemas, at
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahNaiane1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sarah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="Sarah-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="Sarah-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
- .
-<h3>O que costumo utilizar nos meus testes:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </p>
-  
-  ##
- 
+## Minhas Skills
+
+**Aplicações e dados**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![RestAsured](https://img.shields.io/badge/-RestAssured-333333?style=flat&logo=restassured)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
+
+
+
+Rest-assured'
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+![Robot Framework](https://img.shields.io/badge/-robotframework-333333?style=flat&logo=robotframework)
+![Selenium](https://img.shields.io/badge/-selenium-333333?style=flat&logo=selenium)
+
+
+
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![GitHub Action](https://img.shields.io/badge/-githubactions-333333?style=flat&logo=githubactions)
+
+github actions'
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+ ## Metódologias ÁGEIS
+![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat&logo=kanban&logoColor=007ACC)
+![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum&logoColor=007ACC)
+
+<br/>
+
 <div> 
  
   <a href="https://instagram.com/sarahnaianes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
